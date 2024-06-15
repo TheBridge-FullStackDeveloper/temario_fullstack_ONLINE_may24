@@ -15,7 +15,8 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
   - **Ramp Up**
     - [Sprint 1](#ramp-up--sprint-1)
     - [Sprint 2](#ramp-up--sprint-2)
-    - [Sprint 3](#ramp-up--sprint-3)
+  - **JS Avanzado**
+    - [Sprint 3](#js-avanzado--sprint-3)
 
 - [**Soluciones de entregables**](#entregables-resueltos)
 
