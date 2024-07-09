@@ -115,3 +115,4 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 
 - [Réplica página de Slack](https://github.com/CarlosDiazGirol/slack-resolve)
 - [Mejora Landing Page](https://github.com/CarlosDiazGirol/FS_Online_Oct_Entregable_Landing_Page)
+- [LocalStorage](https://github.com/CarlosDiazGirol/chuckListJoke)
