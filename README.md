@@ -19,6 +19,7 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - [Sprint 3](#js-avanzado--sprint-3)
     - [Sprint 4](#js-avanzado--sprint-4)
     - [Sprint 5](#js-avanzado--sprint-5)
+    - [Sprint 6](#js-avanzado--sprint-6)
 
 - [**Soluciones de entregables**](#entregables-resueltos)
 
@@ -26,6 +27,7 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - [Sprint 3](#sprint-3)
     - [Sprint 4](#sprint-4)
     - [Sprint 5](#sprint-5)
+    - [Sprint 6](#sprint-6)
 
 - [**Clases de refuerzo**](#clases-de-refuerzo)
 
@@ -77,6 +79,13 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 | [Clase 4](JSAdv/clases/sprint5/clase4.md) | localStorage y sessionStorage   | [Ejercicios](JSAdv/ejercicios/sprint5/ejerciciosJsAdv3.md) |
 | [Clase 5](JSAdv/clases/sprint5/clase5.md) | Métodos objeto, número y string | [Ejercicios](JSAdv/ejercicios/sprint5/ejerciciosJsAdv3.md) |
 
+### JS Avanzado | Sprint 6
+
+| Teoría                                    | Contenido             | Ejercicios                                                 |
+| ----------------------------------------- | --------------------- | ---------------------------------------------------------- |
+| [Clase 1](JSAdv/clases/sprint6/clase1.md) | Asincronía y promesas | [Ejercicios](JSAdv/ejercicios/sprint6/ejerciciosJsAdv4.md) |
+| [Clase 2](JSAdv/clases/sprint6/clase2.md) | Async/Await           | [Ejercicios](JSAdv/ejercicios/sprint6/ejerciciosJsAdv4.md) |
+
 ## Entregables resueltos
 
 ### Sprint 3
@@ -95,6 +104,12 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 - [Usuarios](https://github.com/CarlosDiazGirol/users)
 - [Page visit](https://github.com/CarlosDiazGirol/pagesvisit-resolve)
 - [Team Challenge Chistes de Chuck Norris](https://github.com/CarlosDiazGirol/chuckListJoke)
+
+### Sprint 6
+
+- [Bomba Game](https://github.com/CarlosDiazGirol/boom-resolve)
+- [Diversión con banderas](https://github.com/CarlosDiazGirol/diversionconbanderas)
+- [Team Challenge Pokédex](https://github.com/CarlosDiazGirol/pokedex)
 
 ## Clases de refuerzo
 
