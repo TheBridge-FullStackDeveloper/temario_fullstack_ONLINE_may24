@@ -28,6 +28,7 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - [Sprint 4](#sprint-4)
     - [Sprint 5](#sprint-5)
     - [Sprint 6](#sprint-6)
+    - [Sprint 7](#sprint-7)
 
 - [**Clases de refuerzo**](#clases-de-refuerzo)
 
@@ -110,6 +111,11 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 - [Bomba Game](https://github.com/CarlosDiazGirol/boom-resolve)
 - [Diversión con banderas](https://github.com/CarlosDiazGirol/diversionconbanderas)
 - [Team Challenge Pokédex](https://github.com/CarlosDiazGirol/pokedex)
+
+### Sprint 7
+
+- [Copia web NPM](https://github.com/CarlosDiazGirol/copyweb-resolve)
+- [Modo oscuro](https://github.com/CarlosDiazGirol/dark-mode)
 
 ## Clases de refuerzo
 
