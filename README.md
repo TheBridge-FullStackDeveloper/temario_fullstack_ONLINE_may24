@@ -31,6 +31,7 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - [Sprint 12](#back-end--sprint-12)
     - [Sprint 13](#back-end--sprint-13)
     - [Sprint 14](#back-end--sprint-14)
+    - [Sprint 15](#back-end--sprint-15)
 
 - [**Soluciones de entregables**](#entregables-resueltos)
 
@@ -48,6 +49,7 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - [Sprint 12](#sprint-12)
     - [Sprint 13](#sprint-13)
     - [Sprint 14](#sprint-14)
+    - [Sprint 15](#sprint-15)
 
 - [**Clases de refuerzo**](#clases-de-refuerzo)
 
@@ -122,24 +124,31 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 
 ### Back-End | Sprint 12
 
-| Teoría                                       | Contenido | Ejercicios |
-| -------------------------------------------- | --------- | ---------- |
-| [Clase 1](BackEnd/clases/sprint12/clase1.md) | API REST  | -          |
-| [Clase 2](BackEnd/clases/sprint12/clase2.md) | Scraping  | -          |
+| Teoría                                       | Contenido |
+| -------------------------------------------- | --------- |
+| [Clase 1](BackEnd/clases/sprint12/clase1.md) | API REST  |
+| [Clase 2](BackEnd/clases/sprint12/clase2.md) | Scraping  |
 
 ### Back-End | Sprint 13
 
-| Teoría                                       | Contenido | Ejercicios |
-| -------------------------------------------- | --------- | ---------- |
-| [Clase 1](BackEnd/clases/sprint13/clase1.md) | AUTH0 JWT | -          |
-| [Clase 2](BackEnd/clases/sprint13/clase2.md) | CORS      | -          |
+| Teoría                                       | Contenido |
+| -------------------------------------------- | --------- |
+| [Clase 1](BackEnd/clases/sprint13/clase1.md) | AUTH0 JWT |
+| [Clase 2](BackEnd/clases/sprint13/clase2.md) | CORS      |
 
 ### Back-End | Sprint 14
 
-| Teoría                                       | Contenido | Ejercicios |
-| -------------------------------------------- | --------- | ---------- |
-| [Clase 1](BackEnd/clases/sprint14/clase1.md) | SQL 1     | -          |
-| [Clase 2](BackEnd/clases/sprint14/clase2.md) | SQL 2     | -          |
+| Teoría                                       | Contenido |
+| -------------------------------------------- | --------- |
+| [Clase 1](BackEnd/clases/sprint14/clase1.md) | SQL 1     |
+| [Clase 2](BackEnd/clases/sprint14/clase2.md) | SQL 2     |
+
+### Back-End | Sprint 15
+
+| Teoría                                       | Contenido          |
+| -------------------------------------------- | ------------------ |
+| [Clase 1](BackEnd/clases/sprint15/clase1.md) | Jest               |
+| [Clase 2](BackEnd/clases/sprint15/clase2.md) | MongoDB y Mongoose |
 
 ## Entregables resueltos
 
@@ -197,6 +206,12 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 
 - [Consultas y lectura](https://github.com/CarlosDiazGirol/sql-1)
 - [Relación de tablas](https://github.com/CarlosDiazGirol/sql-2)
+
+### Sprint 15
+
+- [Testing con Jest](https://stackblitz.com/edit/jest-challenge-resuelto?file=README.md)
+- [CRUD de Tasks con mongoose](https://github.com/CarlosDiazGirol/CRUD-DB-mongoose-controller)
+- [Creación de BD con mongoose y testing](https://github.com/TheBridge-FullStackDeveloper/team-challenge-mongoose-testing-solucion)
 
 ## Clases de refuerzo
 
