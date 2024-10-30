@@ -34,6 +34,9 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - [Sprint 15](#back-end--sprint-15)
     - [Sprint 16](#back-end--sprint-16)
 
+  - **Front End**
+    - [Sprint 19](#front-end--sprint-19)
+
 - [**Soluciones de entregables**](#entregables-resueltos)
 
   - **JS Avanzado**
@@ -45,6 +48,7 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - [Sprint 7](#sprint-7)
 
   - **Back End**
+
     - [Sprint 10](#sprint-10)
     - [Sprint 11](#sprint-11)
     - [Sprint 12](#sprint-12)
@@ -52,6 +56,9 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - [Sprint 14](#sprint-14)
     - [Sprint 15](#sprint-15)
     - [Sprint 16](#sprint-16)
+
+  - **Front End**
+    - [Sprint 19](#sprint-19)
 
 - [**Clases de refuerzo**](#clases-de-refuerzo)
 
@@ -158,6 +165,12 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 | -------------------------------------------- | --------- |
 | [Clase 1](BackEnd/clases/sprint16/clase1.md) | Swagger   |
 
+### Front-End | Sprint 19
+
+| Teoría                                        | Contenido |
+| --------------------------------------------- | --------- |
+| [Clase 1](FrontEnd/clases/sprint19/clase1.md) | useState  |
+
 ## Entregables resueltos
 
 ### Sprint 3
@@ -224,6 +237,10 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 ### Sprint 16
 
 - [Documentar CRUD de tareas con Swagger](https://github.com/CarlosDiazGirol/swagger-done)
+
+### Sprint 19
+
+- [useState - Cambio de Nombre del Profesor](https://github.com/TheBridge-FullStackDeveloper/ejercicio-useState-solucion)
 
 ## Clases de refuerzo
 
