@@ -193,10 +193,10 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 
 ### Front-End | Sprint 22
 
-| Teoría                                        | Contenido    | Ejercicios |
-| --------------------------------------------- | ------------ | ---------- |
-| [Clase 1](FrontEnd/clases/sprint22/clase1.md) | Custom Hooks | -          |
-| [Clase 2](FrontEnd/clases/sprint22/clase2.md) | Redux        | -          |
+| Teoría                                        | Contenido    |
+| --------------------------------------------- | ------------ |
+| [Clase 1](FrontEnd/clases/sprint22/clase1.md) | Custom Hooks |
+| [Clase 2](FrontEnd/clases/sprint22/clase2.md) | Redux        |
 
 ## Entregables resueltos
 
