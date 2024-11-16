@@ -38,6 +38,7 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - [Sprint 19](#front-end--sprint-19)
     - [Sprint 20](#front-end--sprint-20)
     - [Sprint 21](#front-end--sprint-21)
+    - [Sprint 22](#front-end--sprint-22)
 
 - [**Soluciones de entregables**](#entregables-resueltos)
 
@@ -63,6 +64,7 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - [Sprint 19](#sprint-19)
     - [Sprint 20](#sprint-20)
     - [Sprint 21](#sprint-21)
+    - [Sprint 22](#sprint-22)
 
 - [**Clases de refuerzo**](#clases-de-refuerzo)
 
@@ -189,6 +191,13 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 | [Clase 1](FrontEnd/clases/sprint21/clase1.md) | Props      |
 | [Clase 2](FrontEnd/clases/sprint21/clase2.md) | useContext |
 
+### Front-End | Sprint 22
+
+| Teoría                                        | Contenido    | Ejercicios |
+| --------------------------------------------- | ------------ | ---------- |
+| [Clase 1](FrontEnd/clases/sprint22/clase1.md) | Custom Hooks | -          |
+| [Clase 2](FrontEnd/clases/sprint22/clase2.md) | Redux        | -          |
+
 ## Entregables resueltos
 
 ### Sprint 3
@@ -271,6 +280,12 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 - [Entendiendo las props](https://github.com/CarlosDiazGirol/props)
 - [Uso de useContext](https://github.com/CarlosDiazGirol/usecontextchangecolor)
 - [Team Challenge - Calculadora](https://github.com/CarlosDiazGirol/calculator)
+
+### Sprint 22
+
+- [Custom hooks](https://github.com/CarlosDiazGirol/hooks)
+- [Redux](https://github.com/CarlosDiazGirol/redux-task)
+- [Team Challenge - Buscador de usuarios de GitHub](https://github.com/CarlosDiazGirol/gituser-resuelto)
 
 ## Clases de refuerzo
 
